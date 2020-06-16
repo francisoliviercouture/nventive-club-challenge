@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/strava-club-challenge/precache-manifest.655f1f95f1783636205942a32dcab7b1.js"
+  "/strava-club-challenge/precache-manifest.0db74112a6a2105582f4721a466980db.js"
 );
 
 self.addEventListener('message', (event) => {
