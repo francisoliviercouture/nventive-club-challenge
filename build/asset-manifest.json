@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/strava-club-challenge/static/css/main.5f361e03.chunk.css",
-    "main.js": "/strava-club-challenge/static/js/main.c278774d.chunk.js",
-    "main.js.map": "/strava-club-challenge/static/js/main.c278774d.chunk.js.map",
+    "main.css": "/strava-club-challenge/static/css/main.29578938.chunk.css",
+    "main.js": "/strava-club-challenge/static/js/main.a826b410.chunk.js",
+    "main.js.map": "/strava-club-challenge/static/js/main.a826b410.chunk.js.map",
     "runtime-main.js": "/strava-club-challenge/static/js/runtime-main.13ac7f26.js",
     "runtime-main.js.map": "/strava-club-challenge/static/js/runtime-main.13ac7f26.js.map",
-    "static/js/2.83acda0f.chunk.js": "/strava-club-challenge/static/js/2.83acda0f.chunk.js",
-    "static/js/2.83acda0f.chunk.js.map": "/strava-club-challenge/static/js/2.83acda0f.chunk.js.map",
+    "static/js/2.fb974b3b.chunk.js": "/strava-club-challenge/static/js/2.fb974b3b.chunk.js",
+    "static/js/2.fb974b3b.chunk.js.map": "/strava-club-challenge/static/js/2.fb974b3b.chunk.js.map",
     "index.html": "/strava-club-challenge/index.html",
-    "precache-manifest.655f1f95f1783636205942a32dcab7b1.js": "/strava-club-challenge/precache-manifest.655f1f95f1783636205942a32dcab7b1.js",
+    "precache-manifest.0db74112a6a2105582f4721a466980db.js": "/strava-club-challenge/precache-manifest.0db74112a6a2105582f4721a466980db.js",
     "service-worker.js": "/strava-club-challenge/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/strava-club-challenge/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.83acda0f.chunk.js.LICENSE.txt": "/strava-club-challenge/static/js/2.83acda0f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/strava-club-challenge/static/media/logo.5d5d9eef.svg"
+    "static/css/main.29578938.chunk.css.map": "/strava-club-challenge/static/css/main.29578938.chunk.css.map",
+    "static/js/2.fb974b3b.chunk.js.LICENSE.txt": "/strava-club-challenge/static/js/2.fb974b3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.13ac7f26.js",
-    "static/js/2.83acda0f.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c278774d.chunk.js"
+    "static/js/2.fb974b3b.chunk.js",
+    "static/css/main.29578938.chunk.css",
+    "static/js/main.a826b410.chunk.js"
   ]
 }
