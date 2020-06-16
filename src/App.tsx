@@ -1,24 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
+import TimeAgo from 'timeago-react';
+
 import './App.css';
+import data from './data/data.json';
+import AthleteList from './AthleteList';
+import SectionRandom from './SectionRandom';
 
 function App() {
+  const { athletes, last_updated } = data;
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app container">
+      <h1>nventive Strava Challenge</h1>
+      <h5>Last updated: {last_updated && <TimeAgo datetime={last_updated} locale='fr_CA' />}</h5>
+      <AthleteList athletes={athletes} />
+      <SectionRandom athletes={athletes}/>
     </div>
   );
 }
