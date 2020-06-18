@@ -1,4 +1,4 @@
-import React, { FunctionComponent, useEffect } from 'react';
+import React, { FunctionComponent} from 'react';
 import { Athlete } from '../../../models/athlete.model';
 
 interface SortedListAthleteProps {
@@ -6,8 +6,6 @@ interface SortedListAthleteProps {
 }
 
 export const SortedListAthlete: FunctionComponent<SortedListAthleteProps> = ({ athletes }) => {
-
-    useEffect(() => { console.log('test') }, []);
 
     function formatDistanceToKm(distance: number): string {
         if (distance !== 0) {
