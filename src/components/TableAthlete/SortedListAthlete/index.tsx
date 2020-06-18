@@ -1,4 +1,4 @@
-import React, { FunctionComponent} from 'react';
+import React, { FunctionComponent } from 'react';
 import { Athlete } from '../../../models/athlete.model';
 
 interface SortedListAthleteProps {
