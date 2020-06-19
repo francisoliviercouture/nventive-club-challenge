@@ -47,6 +47,7 @@ td:first-child, th:first-child {
 
 /* Larger than tablet screen */
 @media (min-width: 80.0rem) {
+  
   .header-last_updated {
     margin: 0;
   }
