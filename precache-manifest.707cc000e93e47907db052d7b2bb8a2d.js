@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "715a3f35d1ffdffa0e500da2d628c9a1",
+    "revision": "3ed4b2cc206ce9ef0893e69be11aee33",
     "url": "/strava-club-challenge/index.html"
   },
   {
-    "revision": "39e788213c6f1c14f80e",
+    "revision": "918ac013d5565fdfc220",
     "url": "/strava-club-challenge/static/css/main.2fe2330f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/strava-club-challenge/static/js/2.74c288a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39e788213c6f1c14f80e",
-    "url": "/strava-club-challenge/static/js/main.857159cf.chunk.js"
+    "revision": "918ac013d5565fdfc220",
+    "url": "/strava-club-challenge/static/js/main.29b948e0.chunk.js"
   },
   {
     "revision": "b8ca6a077b70f77fa030",
